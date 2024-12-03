@@ -1,0 +1,19 @@
+.input-form{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    width: 16vw;
+    gap: 10px;
+    flex-direction: column;
+    margin: 14vh;
+    color: white;
+    border: 0cap;
+}
+
+.container { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
